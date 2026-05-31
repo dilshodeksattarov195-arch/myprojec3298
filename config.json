@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configvync",
+        "uuid": 21661264,
+        "checksum": "2dfidx"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
